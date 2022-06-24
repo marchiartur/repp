@@ -26,8 +26,13 @@ body {
 
 .nav-link {
   margin-right: 20px;
-  }
+}
 
-  .display-6{
-      text-align: center;
-  }
+.display-6 {
+  text-align: center;
+}
+
+
+.caption-text{ 
+  color: black;
+}
